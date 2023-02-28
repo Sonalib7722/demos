@@ -8,7 +8,7 @@ public class DemoClass {
 	
 	@GetMapping("/get")
 	public String getData() {
-		return "Welcome to demo page";
+		return "Welcome to demo page new change";
 	}
 
 }
